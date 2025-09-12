@@ -92,8 +92,3 @@ Formulas:
 
 ---
 
-## 🚀 Quick Start
-Clone repo:
-```bash
-git clone https://github.com/<your-username>/ransomware-early-warning.git
-cd ransomware-early-warning
